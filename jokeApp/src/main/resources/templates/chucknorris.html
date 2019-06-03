@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link href="/chucknorris.css" th:href="@{/chucknorris.css}" rel="stylesheet" />
+
+    <meta charset="UTF-8">
+    <title>Joke of the Day</title>
+</head>
+<body>
+    <h1>A little 'Chuck' to brighten up your day!!</h1>
+    <div class="title">
+        <p> Today's joke of the day: </p>
+    </div>
+    <div class="quote">
+        <p th:text="${joke}">Chuck Norris Joke shown here</p>
+    </div>
+</body>
+</html>
