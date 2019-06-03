@@ -1,4 +1,4 @@
-#Chuck Norris Random Quote App
+# Chuck Norris Random Joke App
 This is a random joke web app built using Java and Spring boot.
 
 ## Spring dependencies
