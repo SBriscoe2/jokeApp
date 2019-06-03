@@ -7,3 +7,7 @@ Spring.io initializer with web and thymeleaf dependencies.
 ## Banner 
 
 Banner used during Spring build was generated from https://www.ascii-art-generator.org/
+
+## Running app
+
+clone Git repo https://github.com/SBriscoe2/jokeApp.git
